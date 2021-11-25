@@ -1,0 +1,15 @@
+{
+  "name": "aqoursvsaliens",
+  "version": "1.0.0",
+  "description": "minijuego de april fools 2021 aqours vs aliens",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "mikanon",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
