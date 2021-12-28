@@ -17,7 +17,7 @@ dentro de la carpeta principal.  y:
 
     npm start
 
-para ejecutar el server, luego en el navegador se puede acceder a juego en la direccion 127.0.0.1:3000
+para ejecutar el server, luego en el navegador se puede acceder al juego en la direccion 127.0.0.1:3000
 
 
 **LOS ASSETS Y EL JUEGO EN GENERAL PERTENECEN A LA FRANQUICIA LOVE LIVE Y A LAS EMPRESAS ASOCIADAS.**
